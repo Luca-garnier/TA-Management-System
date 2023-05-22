@@ -70,3 +70,8 @@ $ npm run start
 A successful completion of these steps will automatically open up a new browser window with a landing page.
 
 
+## Website Storyboard
+<img width="528" alt="Screen Shot 2023-05-22 at 10 56 13 AM" src="https://github.com/Luca-garnier/TA-Management-System/assets/69828682/9ef85b06-99dd-42af-b68e-9c05865bfbb8">
+
+
+
