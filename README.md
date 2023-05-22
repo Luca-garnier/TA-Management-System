@@ -10,7 +10,7 @@ All users can belong to more than one course (professors and students belong to 
 
 Users can only see those dashboard options that correspond to their user account type. For example, a student who is also an instructor can only see the green and blue areas in their menu.
 
-<u>GREEN AREA</u>
+# GREEN AREA
 This consists of the portion of the website that all users can interact with. It contains the landing page, registration and login, the dashboard, logout, and rate a TA. Notice that the dashboard is only reached after successfully logging in. To login, a database of usernames and passwords must be consulted. You must use an SQL or No-SQL database. As a minimum the database must contain these fields: first and last name, email, student ID number, username, password, and courses_registered_in (plural) and semester. The user will need to specify which courses they belong to. Registration adds the new user to the database. The user self-reports the courses they have for the semester when registering. The System Operator can edit this list later. For bonus, confirmation emails to the new user, and a notification email is sent to the system operator. The landing page must be professional looking, responsive, and informative to new users. The login is incorporated into the landing page (there is no login page). When rating at TA, the user must specify which course and term. Rating a TA gives a score from 0 to 5 (where 5 means the best). This option also provides a space to leave a short twitter- like comment.
 
 
